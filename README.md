@@ -1128,6 +1128,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/docky) [Docky](https://launchpad.net/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/plasma/latte-dock) [Latte Dock](https://store.kde.org/p/1169519/) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids.
 - [![Open-Source Software][oss icon]](https://git.launchpad.net/plank) [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
+- [![Open-Source Software][oss icon]](https://github.com/Wian1977/TinyDock) [TinyDock](https://github.com/Wian1977/TinyDock) - A lightweight elastic-zoom dock written in Rust + GTK3, with a bundled tclock desk clock and Debian packaging.
 
 #### Local Search
 
